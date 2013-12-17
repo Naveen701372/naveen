@@ -1,7 +1,7 @@
 import plivo
 
-PLIVO_AUTH_ID = "MAZJAYZTJKZGIZNWM1MW"
-PLIVO_AUTH_TOKEN = "YTdiYTQ3YzVmZjFjMjBiYjc0MjA3NzgyM2RlMzA0"
+PLIVO_AUTH_ID = ""
+PLIVO_AUTH_TOKEN = ""
 
 plivo_number = "119494822725"
 destination_number = "+919460861875"
